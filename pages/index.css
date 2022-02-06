@@ -79,6 +79,7 @@
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__quote/khan__quote.css);
+@import url(../blocks/khan/__blockquote/khan__blockquote.css);
 @import url(../blocks/khan/__title/khan__title.css);
 
 /* Секция Принципы обучения от Кауфмана */
@@ -89,6 +90,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__log-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo-image/resources__logo-image.css);
 
 /* Подвал */
 @import url(../blocks/footer/footer.css);
